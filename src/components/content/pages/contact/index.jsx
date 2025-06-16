@@ -39,7 +39,10 @@ function Contact() {
                     </span>
                   </li>
                 </div>
-                <div className="flex flex-col sm:flex-row  items-center">
+                <a
+                  href="mailto:pskkocadag@gmail.com"
+                  className="flex flex-col sm:flex-row  items-center"
+                >
                   <Mail className="text-[#d89c24]  sm:h-4 sm:w-4 md:h-5 md:w-5" />
                   <li className="ml-3 border-b-1 border-[#747171] mb-3">
                     <span className="font-bold text-[#d89c24] font-normal ">
@@ -49,7 +52,7 @@ function Contact() {
                       pskkocadag@gmail.com
                     </span>
                   </li>
-                </div>
+                </a>
                 <div className="flex flex-col sm:flex-row items-center ">
                   <Phone className="text-[#d89c24]  sm:h-4 sm:w-4 md:h-5 md:w-5" />
                   <li className="ml-3 border-b-1 border-[#747171] mb-3">
@@ -67,7 +70,6 @@ function Contact() {
                   <Building2 className="text-[#d89c24]  sm:h-4 sm:w-4 md:h-5 md:w-5" />
                   <li className="ml-3 border-b-1 border-[#747171] mb-3">
                     <span className="font-bold text-[#d89c24] font-normal ">
-                      {" "}
                       Şehir :
                     </span>
                     <span className="ml-3 text-[#fff3da]">
