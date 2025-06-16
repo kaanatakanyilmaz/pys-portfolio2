@@ -42,7 +42,7 @@ function AboutUs() {
                   className="w-full max-w-[300px] aspect-[3/4] object-cover rounded-3xl p-4 "
                 />
                 <a href="#contact">
-                  <button className="bg-[#313131] text-xl sm:text-2xl p-3 sm:px-6 lg:px-8 mt-4 mb-8 border border-[#9b701a] rounded-3xl hover:bg-[#464646]">
+                  <button className="bg-[#313131] text-xl sm:text-2xl p-3 sm:px-6 lg:px-8 mt-4 mb-4 border border-[#9b701a] rounded-3xl hover:bg-[#464646]">
                     İletişim
                   </button>
                 </a>

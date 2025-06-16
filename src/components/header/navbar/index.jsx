@@ -15,8 +15,8 @@ function NavBar() {
       animate={{ opacity: 1, x: -20 }}
       transition={{ duration: 1, delay: 0.5 }}
     >
-      <div className=" relative group font-normal  text-[#d89c24] text-lg flex flex-col md:flex-row justify-center items-center">
-        <a href="#home" className="ml-10 hover:border-b-[2px] mb-5 md:mb-0">
+      <div className=" relative group font-normal  text-[#d89c24] text-sm md:text-base lg:text-lg flex flex-col md:flex-row justify-center items-center py-4 lg-py-0">
+        <a href="#home" className="ml-6 hover:border-b-[2px] mb-5 md:mb-0">
           <div className="flex items-center">
             <span className="ml-1">Ana Sayfa</span>
           </div>

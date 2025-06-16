@@ -3,7 +3,7 @@ import { Instagram, Mail } from "lucide-react";
 
 function Footer() {
   return (
-    <div className="bg-[#1b1b1b] mt-40 h-100  top-0 text-[#d89c24] flex flex-col items-center ">
+    <div className="bg-[#1b1b1b] mt-30 h-90 lg:h-100  top-0 text-[#d89c24] flex flex-col items-center ">
       <h1 className="text-2xl sm:text-4xl lg:text-6xl  text-[#fff3b5] font-light mt-15  ">
         Danışan odaklı, güvenli ve etik
         <h1 className="flex justify-center"> ilkelerle hizmet.</h1>
